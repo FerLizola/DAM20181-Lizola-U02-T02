@@ -1,0 +1,17 @@
+{
+    "files": [
+        "src/alumno.ts",
+        "src/crud.ts"
+    ],
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es3",
+        "noImplicitAny": false,
+        "outDir": "dist",
+        "rootDir": ".",
+        "sourceMap": false
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
